@@ -1,2 +1,2 @@
-# keel
-The Keel programming language
+# Karn
+The Karn programming language
